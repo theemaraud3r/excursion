@@ -1,0 +1,43 @@
+body{
+  background-color: black;
+}
+h1,h2{
+  color: white;
+  text-align: center;
+  font-family: verdana;
+}
+h2{
+  font-weight: 300;
+  font-size: 42px
+}
+a{
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+.cnet{
+  text-align: center;
+}
+h1{
+  font-weight: normal;
+  font-size: 50px;
+}
+.copyright {
+  text-align: right;
+  color: gray;
+  opacity: .9;
+  font-size: 22px
+}
+.remembers{
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+.phonevid{
+  text-align: center;
+}
+.tent,.icon{
+  text-align: center;
+}
